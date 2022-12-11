@@ -63,7 +63,11 @@ Other online operating systems / web desktops:
 | [![](images/icons/vue-win3.1-16x16.png)&nbsp;vue win3.1](https://disjfa.github.io/vue-win-3.1/)       | Windows 3.1                      | [repo here](https://github.com/disjfa/vue-win-3.1) - shared source                                                                                     |                                         |
 | [![](images/icons/virtualdesktop.org-16x16.png)&nbsp;VirtualDesktop](http://virtualdesktop.org/)      | Screenshot flows, several OSes   |                                                                                                                                                        |                                         |
 | [GUIdebook](https://guidebookgallery.org/guis/windows/)                                               | Screenshots, several OSes        |                                                                                                                                                        |                                        | |
-| [xp-js.glitch.me](https://xp-js.glitch.me/)                                               | Screenshots, several OSes        |                                                                                                                                                        |                                        |                 
+| [xp-js.glitch.me](https://xp-js.glitch.me/)                                               | OSes        |                                                                                                                                                        |                                        |                 
+                                                                                                                             |                                        | |
+| [https://demo.system7.app/](https://github.com/mihaip/infinite-mac)                                               | Mac OS        |                                                                                                                                                        |                                        |                 
+JS Json : https://github.com/vmware/xpath-for-json
+
 
 Plus many more [web desktops on Wikipedia](https://en.wikipedia.org/wiki/Web_desktop),
 [awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops),
