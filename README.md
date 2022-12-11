@@ -68,7 +68,8 @@ Other online operating systems / web desktops:
 | [demo.system-7](https://demo.system7.app/)                                               | Mac OS  Expains more detail https://youtu.be/bXBsJA8Wbj4      |                                                                                                                                                        |                                        |                 
                                                                                                                              |                                        | |
 
-
+[chiptune](http://chiptune.com/) OS for chiptune
+[chip-player-js](https://mmontag.github.io/chip-player-js/) another os for chiptune
 
 
 JS Json : https://github.com/vmware/xpath-for-json
