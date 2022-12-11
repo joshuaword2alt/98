@@ -65,7 +65,12 @@ Other online operating systems / web desktops:
 | [GUIdebook](https://guidebookgallery.org/guis/windows/)                                               | Screenshots, several OSes        |                                                                                                                                                        |                                        | |
 | [xp-js.glitch.me](https://xp-js.glitch.me/)                                               | OSes        |                                                                                                                                                        |                                        |                 
                                                                                                                              |                                        | |
-| [https://demo.system7.app/](https://github.com/mihaip/infinite-mac)                                               | Mac OS        |                                                                                                                                                        |                                        |          
+| [demo.system-7](https://demo.system7.app/)                                               | Mac OS  Expains more detail https://youtu.be/bXBsJA8Wbj4      |                                                                                                                                                        |                                        |                 
+                                                                                                                             |                                        | |
+
+
+
+
 JS Json : https://github.com/vmware/xpath-for-json
 
 Plus many more [web desktops on Wikipedia](https://en.wikipedia.org/wiki/Web_desktop),
