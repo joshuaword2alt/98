@@ -63,6 +63,7 @@ Other online operating systems / web desktops:
 | [![](images/icons/vue-win3.1-16x16.png)&nbsp;vue win3.1](https://disjfa.github.io/vue-win-3.1/)       | Windows 3.1                      | [repo here](https://github.com/disjfa/vue-win-3.1) - shared source                                                                                     |                                         |
 | [![](images/icons/virtualdesktop.org-16x16.png)&nbsp;VirtualDesktop](http://virtualdesktop.org/)      | Screenshot flows, several OSes   |                                                                                                                                                        |                                         |
 | [GUIdebook](https://guidebookgallery.org/guis/windows/)                                               | Screenshots, several OSes        |                                                                                                                                                        |                                         |
+| [xp-js-glitch-me](| [GUIdebook](https://guidebookgallery.org/guis/windows/)                                               | Screenshots, several OSes        |       
 
 
 Plus many more [web desktops on Wikipedia](https://en.wikipedia.org/wiki/Web_desktop),
