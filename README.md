@@ -65,8 +65,9 @@ Other online operating systems / web desktops:
 | [GUIdebook](https://guidebookgallery.org/guis/windows/)                                               | Screenshots, several OSes        |                                                                                                                                                        |                                        | |
 | [xp-js.glitch.me](https://xp-js.glitch.me/)                                               | OSes        |                                                                                                                                                        |                                        |                 
                                                                                                                              |                                        | |
-| [demo.system-7](https://demo.system7.app/)                                               | Mac OS  Expains more detail https://youtu.be/bXBsJA8Wbj4      |                                                                                                                                                        |                                        |                 
-                                                                                                                             |                                        | |
+| [demo.system-7](https://demo.system7.app/)                                              | Mac OS  Expains more detail https://youtu.be/bXBsJA8Wbj4      |                                                                                                                                                        |                                        |                 
+
+| [wow](https://github.com/spotify/gcs-tools                                                                                                                           |                                        | |
 
 [CHIPTUNE-OS]
 [chiptune](http://chiptune.com/) OS for chiptune
