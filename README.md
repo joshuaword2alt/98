@@ -67,7 +67,7 @@ Other online operating systems / web desktops:
                                                                                                                              |                                        | |
 [demo.system-7](https://demo.system7.app/)                                              | Mac OS  Expains more detail https://youtu.be/bXBsJA8Wbj4      |                                                                                                                                                        |                                        |                 
 
-[wow](https://github.com/spotify/gcs-tools                                                                                                                           |                                        | |
+[wow](https://github.com/spotify/gcs-tools)                                                                                                                          |                                        | |
 
 [CHIPTUNE-OS]
 [chiptune](http://chiptune.com/) OS for chiptune
